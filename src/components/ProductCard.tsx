@@ -33,7 +33,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         </Link>
         
         <div className="flex justify-between items-center mt-2">
-          <span className="font-bold text-lg">${product.price.toFixed(2)}</span>
+          <span className="font-bold text-lg">KSh {product.price.toLocaleString()}</span>
           <Button 
             size="sm" 
             onClick={(e) => {
