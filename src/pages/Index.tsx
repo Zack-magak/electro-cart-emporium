@@ -25,7 +25,7 @@ const Index = () => {
                 Next-Gen Electronics for Modern Living
               </h1>
               <p className="text-lg md:text-xl mb-6 opacity-90">
-                Discover the latest tech innovations at unbeatable prices. Free shipping on orders over $50.
+                Discover the latest tech innovations at unbeatable prices.
               </p>
               <Link to="/products" className="btn-accent inline-block">
                 Shop Now
@@ -105,7 +105,7 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
               <h3 className="text-xl font-bold mb-4">ElectroCart</h3>
-              <p className="text-gray-400">Your destination for premium electronics at competitive prices.</p>
+              <p className="text-gray-400">Your destination for quality electronics at competitive prices.</p>
             </div>
             <div>
               <h3 className="font-bold mb-4">Shop</h3>
@@ -133,7 +133,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-6 text-center text-gray-400">
-            <p>&copy; 2025 ElectroCart. All rights reserved.</p>
+            <p>&copy; Zack Magak 2025. All rights reserved.</p>
           </div>
         </div>
       </footer>

@@ -6,7 +6,7 @@ const products: Product[] = [
   {
     id: 1,
     name: "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
-    price: 35000,
+    price: 5000,
     image: "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
     category: "Audio",
     description: "Industry-leading noise cancellation with dual noise sensor technology. Up to 30 hours battery life with quick charging (10 min charge for 5 hours of playback)."
@@ -14,7 +14,7 @@ const products: Product[] = [
   {
     id: 2,
     name: "Apple AirPods Pro Wireless Earbuds",
-    price: 28000,
+    price: 2000,
     image: "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
     category: "Audio",
     description: "Active Noise Cancellation blocks outside noise, so you can immerse yourself in music. Transparency mode for hearing what's happening around you."
@@ -22,7 +22,7 @@ const products: Product[] = [
   {
     id: 3,
     name: "JBL Flip 5 Bluetooth Speaker",
-    price: 12000,
+    price: 18000,
     image: "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
     category: "Audio",
     description: "PartyBoost feature lets you pair two JBL PartyBoost-compatible speakers together for stereo sound. Waterproof IPX7 design with durable fabric materials."
@@ -30,7 +30,7 @@ const products: Product[] = [
   {
     id: 4,
     name: "Sony SRS-XB43 EXTRA BASS Bluetooth Speaker",
-    price: 18500,
+    price: 4500,
     image: "https://images.unsplash.com/photo-1589003077984-894e133dabab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
     category: "Audio",
     description: "EXTRA BASS for deep, punchy sound. Live Sound Mode for a three-dimensional music experience. Dustproof, shockproof and waterproof IP67 design."
@@ -38,7 +38,7 @@ const products: Product[] = [
   {
     id: 5,
     name: "Bose QuietComfort Earbuds",
-    price: 25000,
+    price: 5000,
     image: "https://images.unsplash.com/photo-1606400082777-ef05f3c5cde2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
     category: "Audio",
     description: "High-fidelity audio and world-class noise cancellation. Weather and sweat resistant. Up to 6 hours of battery life per charge."
